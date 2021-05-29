@@ -10,7 +10,7 @@ contract MercadoTransferencia {
         string nome;
         uint idade;
         bool isTransferido;
-        uint valorDaTransferencia; // Valor da venda em ether
+        uint valorDaTransferencia; // Valor da venda
         string nomeActualClube;
         string nomeNovoClube; // Nome do clube de transferência do Jogador
         uint dataDaTransferencia; // Data da realizazao da transferência - block.timestamp
